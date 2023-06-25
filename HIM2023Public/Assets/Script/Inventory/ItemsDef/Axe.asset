@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bd388cd4c068644a7552758f153b85, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: 7734ce224d2c5fb4093de34f55f95b22, type: 3}
+  _shape:
+    _width: 2
+    _height: 2
+    _shape: 01010001
+  _type: 1
+  _canDrop: 1
+  _position: {x: 0, y: 1}
+  itemObject: {fileID: 4039939046221895243, guid: f849c8ae4af71c941a96312b8eeabc26, type: 3}
+  itemPrefabName: Axe
+  spriteName: Axe-removebg-preview
+  itemName: 
+  durability: 80
+  area: "\uB2AA\uC9C0\uB300"
+  code: 202305181107282199
+  describe: "\uB0A0\uCE74\uB86D\uACE0 \uBB34\uAC81\uB2E4"
+  damage: 10

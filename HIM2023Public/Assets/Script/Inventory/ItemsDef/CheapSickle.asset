@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bd388cd4c068644a7552758f153b85, type: 3}
+  m_Name: CheapSickle
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: 4bcc15a12718065459b7227d159d6371, type: 3}
+  _shape:
+    _width: 4
+    _height: 4
+    _shape: 01010101010000000100000001000000
+  _type: 1
+  _canDrop: 1
+  _position: {x: 0, y: 0}
+  itemObject: {fileID: 1353487328190166, guid: fb310ecd9d6016e41959f14545dd8a0c, type: 3}
+  itemPrefabName: CheapSickle
+  spriteName: CheapSickle
+  itemName: "\uC2F8\uAD6C\uB824 \uB0AB"
+  durability: 0
+  area: 
+  code: 202305171904500540
+  describe: "\uC791\uBB3C \uC218\uD655\uC6A9 \uD070 \uB0AB \uAC70\uB300\uD55C \uB0A0\uC5D4
+    \uC660\uC9C0 \uBAA8\uB97C \uACF5\uD3EC\uAC10\uC774 \uC788\uB2E4 \uC774\uB294
+    \uC218\uD655 \uB2F9\uD558\uB294 \uC785\uC7A5\uC758 \uACF5\uD3EC\uAC00 \uB290\uAEF4\uC9C0\uAE30
+    \uB54C\uBB38\uC774 \uC544\uB2D0\uAE4C"
+  damage: 10

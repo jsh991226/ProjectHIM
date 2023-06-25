@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4925451820106303427
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4742450754097074444}
+  - component: {fileID: -7878714832332158578}
+  m_Layer: 0
+  m_Name: OldTown_Test
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4742450754097074444
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4925451820106303427}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-7878714832332158578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4925451820106303427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b5788e6c861c84b9908f98f7d704df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 4
+  title: "\uC624\uB798\uB41C \uB9C8\uC744[TEST]"
+  desc: "\uC624\uB798\uB41C \uB9C8\uC744 \uD14C\uC2A4\uD2B8\uC6A9 AREA"
+  level: 2
+  peopleNow: 1
+  peopleMin: 1
+  peopleMax: 6
+  titleImage: {fileID: 21300000, guid: 26deb120ee749da4e90ef8613c964535, type: 3}
+  gameScene: Area02
+  owner: USER555
+  playerList:
+  - USER555
+  readyPlayer: []

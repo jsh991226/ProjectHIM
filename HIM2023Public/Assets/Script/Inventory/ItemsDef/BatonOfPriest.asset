@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bd388cd4c068644a7552758f153b85, type: 3}
+  m_Name: BatonOfPriest
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: 62df215a6a7c3a847b8d59eb518bc082, type: 3}
+  _shape:
+    _width: 1
+    _height: 5
+    _shape: 0101010101
+  _type: 1
+  _canDrop: 1
+  _position: {x: 0, y: 0}
+  itemObject: {fileID: 1599281914874294, guid: aa689c7ac7ba93046b42af748140527d, type: 3}
+  itemPrefabName: BatonOfPriest
+  spriteName: BatonOfPriest
+  itemName: "\uC131\uC9C1\uC790\uC758 \uC9C0\uD718\uBD09"
+  durability: 0
+  area: 
+  code: 
+  describe: "\uBA85\uB9DD \uB192\uC558\uB358 \uC131\uC9C1\uC790\uC758 \uC9C0\uD718\uBD09.
+    \uADF8\uAC00 \uAD8C\uC138\uC5D0 \uB208\uC774 \uBA40\uC5B4 \uD0C0\uB77D\uD55C
+    \uD6C4, \uADF8\uC758 \uC601\uD63C\uC744 \uC218\uAC70\uD558\uB7EC \uC628 \uC545\uB9C8\uC5D0
+    \uC758\uD574 \uBC1C\uACAC \uB418\uC5C8\uB2E4."
+  damage: 10

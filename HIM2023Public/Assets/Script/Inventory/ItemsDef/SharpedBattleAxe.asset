@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bd388cd4c068644a7552758f153b85, type: 3}
+  m_Name: SharpedBattleAxe
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: 3861c468aecd2d84fa13b6d38a185dd8, type: 3}
+  _shape:
+    _width: 2
+    _height: 4
+    _shape: 0101010100010001
+  _type: 1
+  _canDrop: 1
+  _position: {x: 0, y: 0}
+  itemObject: {fileID: 1218283935775276, guid: f7f6bae96f61b67479152f8eb37cd2c0, type: 3}
+  itemPrefabName: SharpedBattleAxe
+  spriteName: SharpedBattleAxe
+  itemName: "\uAD49\uC7A5\uD788 \uB0A0\uCE74\uB85C\uC6B4 \uC591\uB0A0\uB3C4\uB07C"
+  durability: 0
+  area: 
+  code: 
+  describe: "\uC6A9\uB9F9\uD55C \uC6A9\uC0AC\uC758 \uB3C4\uB07C. \uBB34\uC5C7\uC774\uB4E0
+    \uAC00\uB974\uACE0 \uB2E4\uB2C8\uB358 \uB3C4\uB07C\uAC00 \uADF8 \uC8FC\uC778\uB9C8\uC800
+    \uAC08\uB77C \uBC84\uB9B0 \uD6C4 \uD749\uBB3C\uC774 \uB418\uC5B4 \uC0AC\uB78C\uB4E4
+    \uC0AC\uC774\uC5D0\uC120 \uC0AC\uC6A9\uB418\uC9C0 \uC54A\uAC8C \uB418\uC5C8\uB2E4."
+  damage: 10

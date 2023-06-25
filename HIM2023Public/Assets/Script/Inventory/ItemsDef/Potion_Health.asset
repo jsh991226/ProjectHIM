@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bd388cd4c068644a7552758f153b85, type: 3}
+  m_Name: Potion_Health
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: ef621b37a8914334e84dd04331f54ce8, type: 3}
+  _shape:
+    _width: 1
+    _height: 1
+    _shape: 01
+  _type: 6
+  _canDrop: 1
+  _position: {x: 0, y: 0}
+  itemObject: {fileID: 8118541375823797335, guid: 8c39b77f4f17e614a8a97983297e2a02, type: 3}
+  itemPrefabName: Potion_Health
+  spriteName: Potion_Health
+  itemName: "\uCCB4\uB825 \uD3EC\uC158"
+  durability: 0
+  area: 
+  code: 
+  describe: 
+  damage: 50

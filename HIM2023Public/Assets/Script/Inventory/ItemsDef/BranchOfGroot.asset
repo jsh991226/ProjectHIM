@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bd388cd4c068644a7552758f153b85, type: 3}
+  m_Name: BranchOfGroot
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: bf31715b576c7494284f62751723338b, type: 3}
+  _shape:
+    _width: 1
+    _height: 5
+    _shape: 0101010101
+  _type: 1
+  _canDrop: 1
+  _position: {x: 0, y: 0}
+  itemObject: {fileID: 1645773120085240, guid: 49f7db9bb0c3144428f9d6d9c68d49d1, type: 3}
+  itemPrefabName: BranchOfGroot
+  spriteName: BranchOfGroot
+  itemName: "\uADF8\uB8E8\uD2B8\uC758 \uB098\uBB47\uAC00\uC9C0"
+  durability: 0
+  area: 
+  code: 
+  describe: "\uC774\uACC4\uC758 \uBB3C\uAC74. \uC5B4\uB290 \uBCC4\uC5D0\uC11C \uC5B4\uB290
+    \uBB3C\uC9C8\uB85C \uB9CC\uB4E4\uC5B4 \uC84C\uB294\uC9C0 \uD30C\uC545\uD560 \uC218
+    \uC5C6\uC73C\uBA70, \uC774 \uBB3C\uAC74\uC744 \uB0A8\uAE30\uACE0 \uC8FD\uC740
+    \uC870\uC0C1\uB4E4\uC5D0 \uC758\uD574 '\uADF8\uB8E8\uD2B8'\uB77C\uB294 \uC774\uB984\uB9CC
+    \uB0A8\uC558\uB2E4."
+  damage: 10

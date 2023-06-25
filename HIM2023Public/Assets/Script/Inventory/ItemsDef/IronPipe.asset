@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bd388cd4c068644a7552758f153b85, type: 3}
+  m_Name: IronPipe
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: 87844bee90930694cabcbd23ebe26e1e, type: 3}
+  _shape:
+    _width: 1
+    _height: 2
+    _shape: 0101
+  _type: 1
+  _canDrop: 1
+  _position: {x: 0, y: 0}
+  itemObject: {fileID: 1117917416786902, guid: 5a0aace3978d7c5468e93cd100a452d5, type: 3}
+  itemPrefabName: IronPipe
+  spriteName: IronPipe
+  itemName: "\uC1E0 \uD30C\uC774\uD504"
+  durability: 0
+  area: 
+  code: 
+  describe: "\uBC30\uAD00\uC5D0 \uC4F0\uC774\uB294 \uC1E0 \uD30C\uC774\uD504 \uC18C\uBC15\uD558\uB2E4\uACE0
+    \uC0DD\uAC01 \uD560 \uC218\uB3C4 \uC788\uC9C0\uB9CC \uB0A0\uC774 \uC5C6\uB294
+    \uC774 \uD749\uAE30\uB294 \uB2E8\uC21C\uD558\uACE0 \uC870\uC7A1\uD558\uC5EC \uC190\uC744
+    \uD0C0\uC9C0 \uC54A\uB294\uB2E4"
+  damage: 10

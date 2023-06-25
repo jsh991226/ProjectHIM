@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bd388cd4c068644a7552758f153b85, type: 3}
+  m_Name: LostHairOfMedusa
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: 3cf86c1ac0426754d9958be8ab4d22ca, type: 3}
+  _shape:
+    _width: 1
+    _height: 4
+    _shape: 01010101
+  _type: 1
+  _canDrop: 1
+  _position: {x: 0, y: 0}
+  itemObject: {fileID: 1367493687340342, guid: f0a575e78f98d264cb1ca57797b9a22e, type: 3}
+  itemPrefabName: LostHairOfMedusa
+  spriteName: LostHairOfMedusa
+  itemName: "\uBA54\uB450\uC0AC\uAC00 \uC783\uC5B4\uBC84\uB9B0 \uBA38\uB9AC\uCE74\uB77D"
+  durability: 0
+  area: 
+  code: 
+  describe: "\uBA54\uB450\uC0AC\uAC00 \uD3C9\uC0DD\uC744 \uCC3E\uC544 \uD5E4\uB9E8
+    \uC790\uC2E0\uC758 \uCCAB \uBA38\uB9AC\uCE74\uB77D. \uBA85\uACC4\uC5D0\uC11C\uC870\uCC28
+    \uD3B8\uD788 \uC26C\uC9C0 \uBABB\uD558\uACE0 \uC5EC\uC804\uD788 \uC790\uC2E0\uC758
+    \uAC83\uC744 \uCC3E\uC544 \uD5E4\uB9E8\uB2E4\uB294 \uC804\uC124\uC774 \uC788\uB2E4."
+  damage: 10

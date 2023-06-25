@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4925451820106303427
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4742450754097074444}
+  - component: {fileID: -7878714832332158578}
+  m_Layer: 0
+  m_Name: OldTown
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4742450754097074444
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4925451820106303427}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-7878714832332158578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4925451820106303427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b5788e6c861c84b9908f98f7d704df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 3
+  title: "\uC624\uB798\uB41C \uB9C8\uC744"
+  desc: "\uC624\uB798\uC804 \uC790\uC5F0\uC7AC\uD574\uAC00 \uC4F8\uACE0\uAC04 \uB9C8\uC744\uC774\uB2E4.
+    \r\n\uC778\uAC04\uC758 \uD798\uC73C\uB85C \uBCF5\uAD6C\uD560 \uC218 \uC5C6\uC5B4
+    \n\uC655\uAD6D \uC601\uD1A0\uC5D0\uC11C \uC81C\uC678\uB418\uC5B4 \r\n\uC18C\uC218\uC758
+    \uBC29\uB791\uC790\uB4E4\uB9CC \uC0B4\uACE0\uC788\uC9C0\uB9CC, \n\uADF8\uB9C8\uC800\uB3C4
+    \uC655\uAD6D\uC758 \uAE30\uC0AC\uB4E4\uC774 \r\n\uBC29\uB791\uC790\uB4E4\uC744
+    \uCAD2\uC544\uB0B4\uB824\uACE0 \uD55C\uB2E4.\r\n\uC774 \uB9C8\uC744\uC5D0\uB294
+    \uC624\uB798\uC804 \uD22C\uAE30\uC7A5\uC73C\uB85C \n\uC0AC\uC6A9\uB418\uB358
+    \uACBD\uAE30\uC7A5\uC774 \uC788\uB294\uB370,, "
+  level: 2
+  peopleNow: 1
+  peopleMin: 2
+  peopleMax: 6
+  titleImage: {fileID: 21300000, guid: 26deb120ee749da4e90ef8613c964535, type: 3}
+  gameScene: Area02
+  owner: 
+  playerList: []
+  readyPlayer: []

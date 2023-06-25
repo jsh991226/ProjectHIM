@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bd388cd4c068644a7552758f153b85, type: 3}
+  m_Name: ClubOfHead
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: a686a71d21ea7904cae13119fd6d5e67, type: 3}
+  _shape:
+    _width: 1
+    _height: 3
+    _shape: 010101
+  _type: 1
+  _canDrop: 1
+  _position: {x: 0, y: 0}
+  itemObject: {fileID: 1094959737035716, guid: 15b2bf6ff3229da4fb6fc88314d4ff81, type: 3}
+  itemPrefabName: ClubOfHead
+  spriteName: ClubOfHead
+  itemName: "\uC871\uC7A5\uC758 \uBABD\uB465\uC774"
+  durability: 100
+  area: Village
+  code: 
+  describe: "\uAC70\uCE60\uACE0 \uD22C\uBC15\uD558\uAC8C \uC0DD\uAE34 \uB098\uBB34
+    \uBB49\uB465\uC774 \uB2E8\uB2E8\uD558\uACE0 \uC798 \uBD80\uC11C\uC9C0\uC9C0 \uC54A\uC73C\uBA70
+    \uADF8 \uBB34\uAC8C\uB85C \uBB34\uC5C7\uC774\uB4E0 \uC9C0\uCF1C\uB0B8\uB2E4"
+  damage: 10

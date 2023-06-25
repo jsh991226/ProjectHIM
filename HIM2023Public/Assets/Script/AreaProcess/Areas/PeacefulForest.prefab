@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4925451820106303427
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4742450754097074444}
+  - component: {fileID: -7878714832332158578}
+  m_Layer: 0
+  m_Name: PeacefulForest
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4742450754097074444
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4925451820106303427}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-7878714832332158578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4925451820106303427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b5788e6c861c84b9908f98f7d704df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 1
+  title: "\uD3C9\uD654\uB85C\uC6B4 \uC232"
+  desc: "\uD3C9\uD654\uB85C\uC6B4 \uC232\uC774\uB2E4 \uBCF4\uC774\uB294\uAC83 \uB9CC\uD07C\n\uD3C9\uD654\uB86D\uC9C4
+    \uC54A\uC744\uC218\uB3C4 \uC788\uB2E4\n\uC790\uC5F0\uC758 \uB2E4\uC591\uD55C
+    \uAD11\uBB3C\uB4E4\uC774 \uC874\uC7AC\uD558\uBA70\n\uC774 \uB9C8\uC744\uC5D0\uB294
+    \uC218\uB9CE\uC740 \uBCF4\uBB3C\uC774 \uBB4D\uD78C\n\uBB34\uB364\uC774 \uC788\uB2E4\uACE0
+    \uD558\uB294\uB370,,,\n\uC774\uB807\uAC8C \uB113\uC740 \uC7A5\uC18C\uC5D0 \uC9C0\uD0A4\uB294
+    \uC0AC\uB78C\uC774\n\uACFC\uC5F0 \uC788\uC744\uAE4C..?"
+  level: 2
+  peopleNow: 1
+  peopleMin: 2
+  peopleMax: 6
+  titleImage: {fileID: 21300000, guid: 22154c35c091b194aa536e3ef37914d2, type: 3}
+  gameScene: Area01
+  owner: 
+  playerList:
+  - 555
+  readyPlayer: []
