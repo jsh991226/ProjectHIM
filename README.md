@@ -2,10 +2,10 @@
 Unity / C# / Pun / Spring / Mysql 을 연동해 만든 온라인 게임
 
 ### Team INFO
-##### 팀장 / 개발 총괄 : 주승환 [ https://github.com/jsh991226 ]
-##### 클라이언트 개발 : 권성우 [ https://github.com/giteukham ]
-##### 클라이언트 개발 : 이유진 [ https://github.com/Goonbam ]
-##### 웹 프론트엔드 : 김수용 [ https://github.com/suyong1213 ]
+##### 팀장 / 개발 총괄 : 주승환 [ https://github.com/jsh991226 ]
+##### 클라이언트 개발 : 권성우 [ https://github.com/giteukham ]
+##### 클라이언트 개발 : 이유진 [ https://github.com/Goonbam ]
+##### 웹 프론트엔드 : 김수용 [ https://github.com/suyong1213 ]
 
 
 ### Source Code INFO
@@ -93,7 +93,8 @@ ChatGPT API를 스프링에서 Json을 Return하는 페이지를 따로 구축�
 
 <img width="450" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/1af510f5-0b52-49c8-bd5e-0fa298296063">
 <img width="450" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/2d585afc-520c-4ee1-94ca-4980044ecaad">
-![습격반 생성](https://github.com/jsh991226/ProjectHIM/assets/81565737/e770173b-af03-40fe-947e-ae78b0a002c0)
+<img width="900" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/e770173b-af03-40fe-947e-ae78b0a002c0">
+
 
 ### 프리팹을 이용하여 간단히 새로운 시나리오를 추가할 수 있습니다
 ![image](https://github.com/jsh991226/ProjectHIM/assets/81565737/a45eea9e-191a-4471-a24b-1498edb25ebe)
