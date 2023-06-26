@@ -22,16 +22,24 @@ PVPVE 형태의 타르코프 라이크 게임입니다
 ![image](https://github.com/jsh991226/ProjectHIM/assets/81565737/fc4a4864-44cb-46d1-8c76-7ab7b465e2a0)
 
 # Inventory System
-<div>
-  메인 시스템인 인벤토리 시스템 입니다
-  다양한 장비와 아이템이 존재 하며 각 아이템 마다 크기와 모양이 각각 존재 해 인벤토리 공간 활용을 잘 해야하는 시스템 입니다
-  샘플 시스템은 @@@에서 참조 했으며
-  실제 응용 및 데이터베이스 연결은 팀에서 직접 처리 하였습니다
-</div>
-<div>
-<img width="500" align="left" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/19d429d6-1394-4c14-9ba9-ecd56d6b7977">
-<img width="500" align="left" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/80828b24-7a53-41f1-bc22-3b4c27a70cff">
-</div>
+메인 시스템인 인벤토리 시스템 입니다
+다양한 장비와 아이템이 존재 하며 각 아이템 마다 크기와 모양이 각각 존재 해 인벤토리 공간 활용을 잘 해야하는 시스템 입니다
+샘플 시스템은 @@@에서 참조 했으며
+실제 응용 및 데이터베이스 연결은 팀에서 직접 처리 하였습니다
+
+
+<img width="500" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/19d429d6-1394-4c14-9ba9-ecd56d6b7977">
+<img width="500"alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/80828b24-7a53-41f1-bc22-3b4c27a70cff">
+
 
 장착시 실제 멀티 연동까지 구현 되어 있습니다
 ![image](https://github.com/jsh991226/ProjectHIM/assets/81565737/b8045897-b1c7-4ae4-99fc-ab3a550b0bd5)
+
+# Item Craft System
+위의 인벤토리 시스템에서 파생하여 만들어진 아이템 제조 시스템 입니다
+아이템이 차지하는 크기가 클수록 조합 확률이 높아지며 
+"룬"아이템의 경우에는 크기에 따른 확률이 아닌 아이템 자체에 기입된 확률이 따로 있습니다
+<img width="700" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/928f6393-edbf-4ce9-82d4-4222f72a33b9">
+<img width="235" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/9fe815dd-e16e-41c7-8abc-545dae8bd6c8">
+<img width="350" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/fefafba7-570c-48b4-956e-99df966e11ed">
+
