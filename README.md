@@ -93,7 +93,9 @@ ChatGPT API를 스프링에서 Json을 Return하는 페이지를 따로 구축�
 
 <img width="450" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/1af510f5-0b52-49c8-bd5e-0fa298296063">
 <img width="450" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/2d585afc-520c-4ee1-94ca-4980044ecaad">
-<img width="900" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/e770173b-af03-40fe-947e-ae78b0a002c0">
+
+![습격반 생성](https://github.com/jsh991226/ProjectHIM/assets/81565737/443c53de-c1f4-443d-ac36-d32471505c25)
+
 
 
 ### 프리팹을 이용하여 간단히 새로운 시나리오를 추가할 수 있습니다
