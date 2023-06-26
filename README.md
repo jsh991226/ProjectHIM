@@ -63,6 +63,13 @@ ChatGPT API를 스프링에서 Json을 Return하는 페이지를 따로 구축�
 <img width="450" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/1af510f5-0b52-49c8-bd5e-0fa298296063">
 <img width="450" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/2d585afc-520c-4ee1-94ca-4980044ecaad">
 <img width="900" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/9e882003-934e-4b25-b7c7-df0410a4b568">
-![image](https://github.com/jsh991226/ProjectHIM/assets/81565737/5cb096d8-f5cf-4b55-b1e4-ee0678e2705e)
+
+### 프리팹을 이용하여 간단히 새로운 시나리오를 추가할 수 있습니다
+![image](https://github.com/jsh991226/ProjectHIM/assets/81565737/a45eea9e-191a-4471-a24b-1498edb25ebe)
+![image](https://github.com/jsh991226/ProjectHIM/assets/81565737/656efd5a-b0ac-4f0b-ae5f-c37250f59da1)
+
+### 컨트롤러 스크립트에 실제 현재 인원 현황을 확인하는 코드를 통해 연동하는 기능을 확인할 수 있습니다
+![image](https://github.com/jsh991226/ProjectHIM/assets/81565737/32100038-a7d6-42a8-bc54-746d048e1c83)
+
 
 
