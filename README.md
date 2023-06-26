@@ -60,7 +60,8 @@ ChatGPT API를 스프링에서 Json을 Return하는 페이지를 따로 구축�
 전체 인원이 Ready 상태가 되면 새로운 Room을 만들어 일부 유저만 다른 게임으로 옮겨가는 시스템을 만들어 냈습니다
 
 
-<img width="500" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/1af510f5-0b52-49c8-bd5e-0fa298296063">
-<img width="500" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/2d585afc-520c-4ee1-94ca-4980044ecaad">
-![image](https://github.com/jsh991226/ProjectHIM/assets/81565737/030d4ad2-7556-47f0-af56-9261952759a6)
+<img width="450" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/1af510f5-0b52-49c8-bd5e-0fa298296063">
+<img width="450" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/2d585afc-520c-4ee1-94ca-4980044ecaad">
+<img width="900" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/9e882003-934e-4b25-b7c7-df0410a4b568">
+
 
