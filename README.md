@@ -52,3 +52,15 @@ ChatGPT API를 스프링에서 Json을 Return하는 페이지를 따로 구축�
 
 ![image](https://github.com/jsh991226/ProjectHIM/assets/81565737/9b14f3f9-d10e-49ec-84fb-843b51b3c433)
 <img width="900" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/c404bad9-488b-48f1-879d-4dc44da44d51">
+
+# Scenario Party System
+일반적으로 PhotonNetwork Pun2 에서는 한번 Room으로 입장 하면 다른 Room 목록을 불러올 수 없어
+저희 기획인 3D형태의 인게임 로비 에서 활동 하다가 인원을 모아 활성화된 Room으로 넘길 수 없었습니다
+그래서 데이터베이스와 코드를 활용 하여 한번 들어온 Room에서 다른 활성화된 방의 정보와 인원을 받고
+전체 인원이 Ready 상태가 되면 새로운 Room을 만들어 일부 유저만 다른 게임으로 옮겨가는 시스템을 만들어 냈습니다
+
+
+<img width="500" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/1af510f5-0b52-49c8-bd5e-0fa298296063">
+<img width="500" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/2d585afc-520c-4ee1-94ca-4980044ecaad">
+![image](https://github.com/jsh991226/ProjectHIM/assets/81565737/030d4ad2-7556-47f0-af56-9261952759a6)
+
