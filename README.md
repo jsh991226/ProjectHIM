@@ -63,5 +63,6 @@ ChatGPT API를 스프링에서 Json을 Return하는 페이지를 따로 구축�
 <img width="450" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/1af510f5-0b52-49c8-bd5e-0fa298296063">
 <img width="450" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/2d585afc-520c-4ee1-94ca-4980044ecaad">
 <img width="900" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/9e882003-934e-4b25-b7c7-df0410a4b568">
+![image](https://github.com/jsh991226/ProjectHIM/assets/81565737/5cb096d8-f5cf-4b55-b1e4-ee0678e2705e)
 
 
