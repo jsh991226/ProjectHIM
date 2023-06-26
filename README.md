@@ -2,7 +2,7 @@
 Unity / C# / Pun / Spring / Mysql 을 연동해 만든 온라인 게임
 
 ### Team INFO
-##### 팀장 / 개발 총괄 : 주승환 [ https://github.com/jsh991226 ]
+##### 서버,클라이언트 개발/웹 백엔드/디자인 : 주승환 [ https://github.com/jsh991226 ]
 ##### 클라이언트 개발 : 권성우 [ https://github.com/giteukham ]
 ##### 클라이언트 개발 : 이유진 [ https://github.com/Goonbam ]
 ##### 웹 프론트엔드 : 김수용 [ https://github.com/suyong1213 ]
