@@ -30,7 +30,7 @@ PVPVE 형태의 타르코프 라이크 게임입니다
 </div>
 <div>
 <img width="500" align="left" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/19d429d6-1394-4c14-9ba9-ecd56d6b7977">
-<img width="500" align="right" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/80828b24-7a53-41f1-bc22-3b4c27a70cff">
+<img width="500" align="left" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/80828b24-7a53-41f1-bc22-3b4c27a70cff">
 </div>
 
 장착시 실제 멀티 연동까지 구현 되어 있습니다
