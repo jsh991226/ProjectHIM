@@ -97,7 +97,7 @@ ChatGPT API를 스프링에서 Json을 Return하는 페이지를 따로 구축�
 <img width="674" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/b9f4d815-8c25-484a-8f1f-69347f90689f">
 
 ### 시나리오 보스 처치 시 변경되는 상단 UI
-탈출구는 현재 남은 인원 수 만큼 랜덤 위치에 생성됩니다
+탈출구의 최대 개수는 현재 남은 작업반 인원 수 입니다, 랜덤한 위치에 한개씩 만 생성됩니다
 <img width="469" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/5b154c4c-1cf1-45ce-8532-f1646a821d29">
 
 ### 멀티 플레이 탈출구 이용
