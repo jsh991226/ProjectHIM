@@ -1,4 +1,4 @@
-![image](https://github.com/jsh991226/ProjectHIM/assets/81565737/4943b23e-748f-4cdd-b789-7d504a2f0c94)![image](https://github.com/jsh991226/ProjectHIM/assets/81565737/8d2f904d-1430-4055-932b-212a435fadfb)# ProjectHIM
+# ProjectHIM
 Unity / C# / Pun / Spring / Mysql 을 연동해 만든 온라인 게임
 
 ### Team INFO
