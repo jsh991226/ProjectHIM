@@ -26,8 +26,8 @@ PVPVE 형태의 타르코프 라이크 게임입니다
 다양한 장비와 아이템이 존재 하며 각 아이템 마다 크기와 모양이 각각 존재 해 인벤토리 공간 활용을 잘 해야하는 시스템 입니다
 샘플 시스템은 @@@에서 참조 했으며
 실제 응용 및 데이터베이스 연결은 팀에서 직접 처리 하였습니다
-<img width="592" style="float:left;" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/19d429d6-1394-4c14-9ba9-ecd56d6b7977">
-<img width="559" style="float:left;" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/80828b24-7a53-41f1-bc22-3b4c27a70cff">
+<img width="400" style="float:left;" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/19d429d6-1394-4c14-9ba9-ecd56d6b7977">
+<img width="400" style="float:left;" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/80828b24-7a53-41f1-bc22-3b4c27a70cff">
 
 장착시 실제 멀티 연동까지 구현 되어 있습니다
 ![image](https://github.com/jsh991226/ProjectHIM/assets/81565737/b8045897-b1c7-4ae4-99fc-ab3a550b0bd5)
