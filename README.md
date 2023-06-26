@@ -43,3 +43,10 @@ PVPVE 형태의 타르코프 라이크 게임입니다
 <img width="235" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/9fe815dd-e16e-41c7-8abc-545dae8bd6c8">
 <img width="350" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/fefafba7-570c-48b4-956e-99df966e11ed">
 
+# AI based NPC Random Dialogue
+ChatGPT API를 스프링에서 Json을 Return하는 페이지를 따로 구축해 두고
+게임 클라이언트에서 해당 NPC의 직업과 이름을 웹에 넘겨 AI가 생성한 대사를
+돌려받아 인게임 NPC에게 적용하였습니다
+
+![image](https://github.com/jsh991226/ProjectHIM/assets/81565737/9b14f3f9-d10e-49ec-84fb-843b51b3c433)
+<img width="710" alt="image" src="https://github.com/jsh991226/ProjectHIM/assets/81565737/c404bad9-488b-48f1-879d-4dc44da44d51">
